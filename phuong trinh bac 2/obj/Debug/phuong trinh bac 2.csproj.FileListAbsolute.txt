@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\phuong trinh bac 2\phuong trinh bac 2\bin\Debug\phuong trinh bac 2.exe.config
+C:\Users\Admin\source\repos\phuong trinh bac 2\phuong trinh bac 2\bin\Debug\phuong trinh bac 2.exe
+C:\Users\Admin\source\repos\phuong trinh bac 2\phuong trinh bac 2\bin\Debug\phuong trinh bac 2.pdb
+C:\Users\Admin\source\repos\phuong trinh bac 2\phuong trinh bac 2\obj\Debug\phuong trinh bac 2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phuong trinh bac 2\phuong trinh bac 2\obj\Debug\phuong trinh bac 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phuong trinh bac 2\phuong trinh bac 2\obj\Debug\phuong_trinh_bac_2.Form1.resources
+C:\Users\Admin\source\repos\phuong trinh bac 2\phuong trinh bac 2\obj\Debug\phuong_trinh_bac_2.Properties.Resources.resources
+C:\Users\Admin\source\repos\phuong trinh bac 2\phuong trinh bac 2\obj\Debug\phuong trinh bac 2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\phuong trinh bac 2\phuong trinh bac 2\obj\Debug\phuong trinh bac 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phuong trinh bac 2\phuong trinh bac 2\obj\Debug\phuong trinh bac 2.exe
+C:\Users\Admin\source\repos\phuong trinh bac 2\phuong trinh bac 2\obj\Debug\phuong trinh bac 2.pdb
